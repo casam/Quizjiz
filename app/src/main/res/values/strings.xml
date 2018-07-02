@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz jiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header">English Quiz</string>
+    <string name="level">Level : 1</string>
+
+    <!--For Every Question Title-->
+    <string name="questionBody">"Multi choice</string>
+    <string name="question1">WHAT DO YOU DO IN YOUR FREE TIME?</string>
+    <string name="question2">WHAT DO YOU DO?</string>
+    <string name="question3">WHAT’S THE WEATHER LIKE?</string>
+
+
+    <!--For Every Question Result Check Box -->
+    <string name="result1">Result 1 :</string>
+    <string name="result2">Result 2 :</string>
+    <string name="result3">Result 3 :</string>
+    <string name="result4">Result 4 :</string>
+
+    <string name="full_scaore">Full Score :D</string>
+    <string name="not_full_score">Your Score Is : </string>
+
+    <!--For Submit Button-->
+    <string name="submit">Submit</string>
+</resources>
